@@ -27,3 +27,4 @@ cout<<".";
 for(i=0;i<100;i++)cout<<u[i];
     return 0;
 }
+// zadanie zrobione
